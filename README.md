@@ -1,2 +1,2 @@
 # JavaScript-Projects-Course
-Some course that I have done taking a Javascript Course
+Some tasks that I have done taking a Javascript Course
